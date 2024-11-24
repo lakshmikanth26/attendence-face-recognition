@@ -1,0 +1,10 @@
+0 hello
+1 thanks
+2 dislike
+3 super
+4 goodluck
+5 sleep
+6 ok
+7 call me
+8 love you
+9 bye

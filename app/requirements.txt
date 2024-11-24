@@ -1,0 +1,6 @@
+tensorflow           # For loading and using your .h5 model
+opencv-python        # For video capture and image processing
+numpy                # For handling numerical operations, particularly with arrays
+pillow               # For image processing (if needed, e.g., for frame manipulation)
+matplotlib           # Optional, for visualizations (e.g., plotting predictions)
+mediapipe
