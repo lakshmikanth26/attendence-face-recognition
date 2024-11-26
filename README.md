@@ -1,5 +1,5 @@
-# attendence-face-recognition
-attendance record for face recognition
+# attendence-face-recognition or # Sign language detection
+attendance record for face recognition  or Sign language detection
 
 Steps to Execute 
 0. Python version 3.11.5
